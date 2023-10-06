@@ -1,2 +1,2 @@
-# online_chat_microservices
+# chat-server
 
